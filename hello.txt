@@ -1,0 +1,2 @@
+This is the calculator made using Python. 
+Its just a simple calculator without any frame work.
